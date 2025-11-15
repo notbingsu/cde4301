@@ -8,3 +8,7 @@ Robotic surgery is rapidly expanding, yet institutions like Tan Tock Seng Hospit
 - Project mentor: Prof ShaoYu Cai
 - Industry Partner: Dr Liu ZhenBang
 
+
+**How to obtain Jigsaw Dataset**
+
+Visit this [link](https://www.cs.jhu.edu/~los/jigsaws/info.php) to fill in a form to download the JIGSAW dataset, and place it in the `jigsaw_datasets` folder.

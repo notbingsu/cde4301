@@ -503,7 +503,7 @@ def main():
     print("=" * 60)
 
     # Configuration - MODIFY THESE PATHS AND SETTINGS
-    base_path = r"C:\Users\marin\Downloads\EE4309\LLMChatbot_Pretrained\BN5211_Final\JIGSAW"
+    base_path = r"jigsaw_datasets"
 
     # Task selection - CHANGE THIS FOR DIFFERENT TASKS
     task = "Needle_Passing"  # Options: "Suturing", "Needle_Passing", "Knot_Tying"
